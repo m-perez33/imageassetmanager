@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/imageassetmanager/static/css/main.06846b7f.chunk.css",
+    "main.js": "/imageassetmanager/static/js/main.e63daaf5.chunk.js",
+    "main.js.map": "/imageassetmanager/static/js/main.e63daaf5.chunk.js.map",
+    "runtime-main.js": "/imageassetmanager/static/js/runtime-main.ef7ace83.js",
+    "runtime-main.js.map": "/imageassetmanager/static/js/runtime-main.ef7ace83.js.map",
+    "static/css/2.f93178fb.chunk.css": "/imageassetmanager/static/css/2.f93178fb.chunk.css",
+    "static/js/2.1337745a.chunk.js": "/imageassetmanager/static/js/2.1337745a.chunk.js",
+    "static/js/2.1337745a.chunk.js.map": "/imageassetmanager/static/js/2.1337745a.chunk.js.map",
+    "index.html": "/imageassetmanager/index.html",
+    "precache-manifest.43d8fba6c571b18a3664609a8612bd09.js": "/imageassetmanager/precache-manifest.43d8fba6c571b18a3664609a8612bd09.js",
+    "service-worker.js": "/imageassetmanager/service-worker.js",
+    "static/css/2.f93178fb.chunk.css.map": "/imageassetmanager/static/css/2.f93178fb.chunk.css.map",
+    "static/css/main.06846b7f.chunk.css.map": "/imageassetmanager/static/css/main.06846b7f.chunk.css.map",
+    "static/js/2.1337745a.chunk.js.LICENSE.txt": "/imageassetmanager/static/js/2.1337745a.chunk.js.LICENSE.txt",
+    "static/media/Grandma.jpg": "/imageassetmanager/static/media/Grandma.9c9fa3b9.jpg",
+    "static/media/App.css": "/imageassetmanager/static/media/IMG_8912.fd1e408a.jpg",
+    "static/media/atkins.jpg": "/imageassetmanager/static/media/atkins.dd818dfe.jpg",
+    "static/media/costello.jpg": "/imageassetmanager/static/media/costello.a18fa463.jpg",
+    "static/media/cousins.jpg": "/imageassetmanager/static/media/cousins.cfe0abc8.jpg",
+    "static/media/emgabe.jpg": "/imageassetmanager/static/media/emgabe.53e95a93.jpg",
+    "static/media/franklin.jpg": "/imageassetmanager/static/media/franklin.36cb675b.jpg",
+    "static/media/great.jpg": "/imageassetmanager/static/media/great.72d1fa46.jpg",
+    "static/media/jimi.jpg": "/imageassetmanager/static/media/jimi.893dbc1b.jpg",
+    "static/media/laura.jpg": "/imageassetmanager/static/media/laura.9178ad07.jpg",
+    "static/media/model.jpg": "/imageassetmanager/static/media/model.04f977f6.jpg",
+    "static/media/price.jpg": "/imageassetmanager/static/media/price.26e485ef.jpg",
+    "static/media/segarra.jpg": "/imageassetmanager/static/media/segarra.2ff60969.jpg",
+    "static/media/turner.jpg": "/imageassetmanager/static/media/turner.5925ae24.jpg",
+    "static/media/unnamed.jpg": "/imageassetmanager/static/media/unnamed.823098dc.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ef7ace83.js",
+    "static/css/2.f93178fb.chunk.css",
+    "static/js/2.1337745a.chunk.js",
+    "static/css/main.06846b7f.chunk.css",
+    "static/js/main.e63daaf5.chunk.js"
+  ]
+}
